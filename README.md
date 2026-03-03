@@ -42,17 +42,6 @@ This project demonstrated the difference between unauthenticated and authenticat
 - Authenticated scans allow deeper system inspection but require proper credential configuration and system permissions.
 - Vulnerability management requires both accurate scanning and proper system configuration to be effective.
 
-## Repository Structure
-home-security-lab
-│
-├─ vulnerability-assessment
-│ ├─ report.md
-│ └─ screenshots
-│ ├─ unauthenticated-scan-results.png
-│ ├─ ssl-certificate-vulnerability.png
-│ ├─ authenticated-scan-running.png
-│ └─ authenticated-scan-failed.png
-
 ## Future Improvements
 
 - Configure successful authenticated scanning
